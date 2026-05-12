@@ -14,5 +14,6 @@ Current Oreon releases are based on AlmaLinux, but we are actively making progre
 - [Oreon Community YouTube](https://youtube.com/@oreonproject)
 - [Oreon Build Service](https://build.oreonhq.com)
 - [Oreon Watchdog](https://watchdog.oreonhq.com)
+- [Oreon Status](https://status.oreonhq.com)
 - [Legal](https://oreonhq.com/legal)
 - [Donate](https://buy.stripe.com/00g4gkgH34qc4eI288)
