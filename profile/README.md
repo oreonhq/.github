@@ -6,7 +6,7 @@ Current Oreon releases are based on AlmaLinux, but we are actively making progre
 ## Resources
 - [Main website](https://oreonhq.com)
 - [Download Oreon](https://oreonhq.com/oreon/download)
-- [Oreon 10](https://oreonhq.com/oreon)
+- [Oreon 11](https://oreonhq.com/oreon)
 - [Oreon Community forum](https://community.oreonhq.com)
 - [Discord server](https://discord.gg/2Yyacu58Ap)
 - [Matrix homeserver](https://matrix.to/#/#oreon:oreonhq.com)
